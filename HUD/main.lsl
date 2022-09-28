@@ -1,0 +1,1 @@
+// This script connects to the server opbject in SL, and is neccessary for the game to function. All the other scripts in the HUD or in game objects connect to this script.

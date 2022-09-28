@@ -1,0 +1,56 @@
+## This file is used to configure your server and scripts.
+## You can change the values here according to how you wish your game to run.
+## If you want to change the values, you can do so by editing the values below.
+
+## Passcode for the server. This is used to prevent unauthorized access to the server or unfair game manipulation by players.
+passcode = "1234"
+
+## Experience multiplier
+exp_multiplier = 1.0
+
+## Speed multiplier
+speed_multiplier = 1.0
+
+## Can players be injured?
+injury = true
+
+## Can players die?
+death = true
+
+///////// Clan, Group, + Roles Settings //////////
+
+## The name of your clan
+clan_name = "The Clan"
+
+## The name of your territory
+territory_name = "The Territory"
+
+## UUID of the group used by players
+player_group_uuid = "00000000-0000-0000-0000-000000000000"
+
+## Name of the leader role
+leader_role_name = "Leader"
+
+## Name of the Deputy role
+deputy_role_name = "Deputy"
+
+## Name of the Medicine cat role
+medicine_cat_role_name = "Medicine Cat"
+
+## Name of the Warrior role
+warrior_role_name = "Warrior"
+
+## Name of the Apprentice role
+apprentice_role_name = "Apprentice"
+
+## Name of the Kit role
+kit_role_name = "Kit"
+
+## Name of the Rogue role
+rogue_role_name = "Rogue"
+
+## Name of the Kittypet role
+kittypet_role_name = "Kittypet"
+
+## Name of the Clanless role
+clanless_role_name = "Clanless"

@@ -1,0 +1,1 @@
+// This script controls the biological functions such as hunger, injuries, breeding, and other relevant systems.
