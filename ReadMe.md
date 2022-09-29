@@ -1,4 +1,6 @@
-# About
+# Galaxy's Cat Roleplay system
+
+## About
 
 This is a game system for roleplaying as cats in Second Life, as cats. It is a work in progress, and is not yet ready for use.
 
