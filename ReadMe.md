@@ -1,4 +1,4 @@
-# Galaxy's Cat Roleplay system
+# Galaxy's Cat Roleplay System
 
 ## About
 
