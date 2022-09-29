@@ -5,8 +5,9 @@ This is a game system for roleplaying as cats in Second Life, as cats. It is a w
 It is currently tailored for the Maneki Neko avatar.
 
 ## Tasks
-[] Finish this documentation
-[] Add a license
-[] Add a changelog
-[] Add a contributing guide
-[] Add a code of conduct
+- [ ] Finish the documentation
+- [ ] Move the documentation to the wiki
+- [ ] Add a license
+- [ ] Add a changelog
+- [ ] Add a contributing guide
+- [ ] Add a code of conduct
