@@ -2,7 +2,7 @@
 
 ## About
 
-This is a game system for roleplaying as cats in Second Life, as cats. It is a work in progress, and is not yet ready for use.
+This is a game system for roleplaying as cats in Second Life. It is a work in progress, and is not yet ready for use.
 
 It is currently tailored for the Maneki Neko avatar.
 
