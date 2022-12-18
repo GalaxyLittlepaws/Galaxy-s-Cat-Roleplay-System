@@ -4,7 +4,7 @@
 
 This is a game system for roleplaying as cats in Second Life. It is a work in progress, and is not yet ready for use.
 
-It is currently tailored for the Maneki Neko avatar.
+It is currently tailored for the Maneki Neko and TWI Wildcat avatars.
 
 OpenSimulator support is planned, but not yet implemented.
 
